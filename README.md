@@ -13,17 +13,23 @@ The project is written in R, structured to ensure reproducibility, and outputs f
 EsthevaoMarttioly_PSet1/
 
 output/
+
 renv/
 
 .RData
+
 .Rhistory
+
 .Rprofile
 
 EsthevaoMarttioly_PSet1.R
+
 EsthevaoMarttioly_PSet1.Rproj
 
 Mega-Sena.xlsx
+
 EsthevaoMarttioly_PSet1.pdf
+
 README.md
 
 ## Reproducibility
