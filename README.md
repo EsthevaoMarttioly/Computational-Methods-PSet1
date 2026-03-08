@@ -62,9 +62,9 @@ Download the dataset and place it in the project folder as Mega-Sena.xlsx
 * Restore package versions: renv::restore()
 * Run the script: EsthevaoMarttioly_PSet1.R
 * Output: The script generates the following figures in the output/ folder:
-*** revenue_prize.pdf
-*** expected_return_bins.pdf
-*** expected_return_parametric.pdf
+  * revenue_prize.pdf
+  * expected_return_bins.pdf
+  * expected_return_parametric.pdf
 
 
 
