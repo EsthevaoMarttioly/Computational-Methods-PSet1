@@ -1,15 +1,19 @@
 ########## Computational Methods - Problem Set 1 - Esthevao Marttioly ##########
 #### Important: open the Rproject, instead of the script itself
 rm(list = ls())       ## Be careful with this! It clears the environment
+
 # renv::init()        ## Freeze the package version == just in the first time
-# renv::restore()     ## Restoring my versions
+# renv::snapshot()    ## Look the package version   == just in the first time
+# renv::restore()     ## Restoring my versions      == run in the first time of a computer
+
 
 # Set a seed for future replications
 set.seed(20260307)
 
 
 # Import Packages
-library(renv)
+# install.packages(c("readxl","tidyverse","ggplot2","gridExtra","stargazer","lubridate","latex2exp"))
+
 library(readxl)
 library(tidyverse)
 library(ggplot2)
