@@ -39,6 +39,8 @@ Certificate yourself that you open directly the .Rproj file.
 To reproduce the environment:
 renv::restore()
 
+It was built in RStudio Version 2026.01.1+403 and R Version R-4.5.2-win.
+
 If needed, you can install packages using:
 
 install.packages(c(
